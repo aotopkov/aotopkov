@@ -2,7 +2,7 @@
 
 
 - Из авиации в айти
-- Изучаю frontend разработку с 2022 года
+- Изучаю разработку с 2022 года
 
  - email: aotopkov@gmail.com 
  - telegram: aotopkov
